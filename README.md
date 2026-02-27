@@ -3,7 +3,7 @@
 # 🖥️ Melissa Gabrielle Alves
 
 <div>
-    Sou a Melissa Gabrielle, moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 2º do Ensino Médio.
+    Sou a Melissa Gabrielle, moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 3º do Ensino Médio.
   <img align="right" alt="Imagem" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlraTdpdmc2Z2xvNGxscnR1aXFrc2IzbTRubHkydTg4bjY3cjIwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ME3oURy9PQYCDbNXES/giphy.gif">
 </div>
 <br>
