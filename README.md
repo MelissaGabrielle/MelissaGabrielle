@@ -3,23 +3,21 @@
 # 🖥️ Melissa Gabrielle Alves
 
 <div>
-    Sou a Melissa Gabrielle, moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 3º do Ensino Médio.
-  <img align="right" alt="Imagem" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlraTdpdmc2Z2xvNGxscnR1aXFrc2IzbTRubHkydTg4bjY3cjIwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ME3oURy9PQYCDbNXES/giphy.gif">
+    Sou a Melissa, tenho 17 anos, atualmente estou no 3º ano do Ensino Médio e divido meu tempo com o curso de Desenvolvimento de Sistemas no SENAI. Me considero uma pessoa super criativa e não aguento ficar ociosa: estou sempre atrás de novas habilidades e caminhos para explorar. Meu foco é aprender algo novo todo dia e transformar ideias em projetos reais.
 </div>
 <br>
 
 ## 📈Estatísticas
-<div>
-  <a href="https://github.com/MelissaGabrielle">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MelissaGabrielle&show_icons=true&theme=jolly&include_all_comits=true&count_private=true"/>
-    <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaGabrielle&layout=compact&langs_count-16&theme=jolly"/>
-  </a>
+<div align="left">
+  <img height="195" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MelissaGabrielle&theme=jolly" />
+  <br>
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MelissaGabrielle&theme=jolly" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MelissaGabrielle&theme=jolly" />
 </div>
 
 ## 🏆Experiências
 <div>
-  <img align="center" alt="Melissa-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" alt="Melissa-Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>          
+    <a href="#"><img src="https://skillicons.dev/icons?i=cpp,py,php,html,css,js,vscode&theme=light" /></a>
 </div>
 
 ## 📨Entre em contato comigo!
